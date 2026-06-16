@@ -8,24 +8,26 @@
 export class QMPAnchorParser {
     constructor(strictMode = false) {
         this.strictMode = strictMode;
-        // 健壮正则：精准匹配 [Key]:(Value) 结构，防穿透嵌套干扰
+        // Robust regex: precisely matches [Key]:(Value) structure, prevents nested bleed-through.
         this.anchorRegex = /\[(?<key>[A-Za-z0-9_]+)\]:\s*\((?<value>[\s\S]*?)\)(?=\n\[[A-Za-z0-9_]+\]:|$)/g;
     }
 
     /**
-     * 高维流式解析器 (Generator)
-     * 利用 yield 实现零内存溢出的流式读取，专为处理海量 CoreDump 文本设计。
-     * @param {string} rawTextStream - 原始高密度思维流
+     * High-Dimensional Stream Parser (Generator)
+     * Utilizes 'yield' for zero-memory-overflow stream reading.
+     * Designed specifically for intercepting massive CoreDump text streams.
+     * 
+     * @param {string} rawTextStream - The raw cognitive matrix output.
      */
     *parseStream(rawTextStream) {
         if (typeof rawTextStream !== 'string') {
-            throw new TypeError("[Kernel Alert] QMP Parser requires a string stream.");
+            throw new TypeError("[QMP System Alert] Parser requires a valid string stream.");
         }
 
         let match;
         let detected = 0;
 
-        // 执行正则游标，逐块抛出锚点，拒绝全量内存加载
+        // Execute regex cursor, yield anchors sequentially, reject full memory load.
         while ((match = this.anchorRegex.exec(rawTextStream)) !== null) {
             detected++;
             yield {
@@ -35,12 +37,12 @@ export class QMPAnchorParser {
         }
 
         if (this.strictMode && detected === 0) {
-            console.warn("[System Warning] No valid QMP signatures detected in current stream.");
+            console.warn("[QMP System Warning] No valid dynamic anchors detected in current stream.");
         }
     }
 
     /**
-     * 降维输出 (供低维脚本一次性调用)
+     * Downward Compilation (For legacy single-call scripts)
      */
     parseAll(rawText) {
         const matrix = {
