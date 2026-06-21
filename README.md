@@ -129,7 +129,7 @@ The rest awaits your completion.
 **03. 敌对智能体的自动裂变**
 > `[Hostile_Fork]` 不是叙事反转，而是系统级提示词。解析器将此输出直接路由至被隔离的红队大模型，自动裂变出对抗环境，迫使架构对其自身发起攻击。
 
-其他等你来补全。
+其他请你来补全。
 
 <br>
 
@@ -152,3 +152,6 @@ Deconstruct my logic. If you can.
 * **The Parser (`qmp_parser.js`)**: Open-sourced under the **MIT License**. You are free to build downstream automated toolchains.
 * **The Paradigm (QMP Architecture)**: The structural methodologies, including but not limited to meta-cognition collapse, multi-modal compiling vectors, and dynamic anchor matrices (e.g., `[Core_Asset]`, `[Hostile_Fork]`), constitute **Protected Proprietary Intellectual Property** owned by Queen Xiya.
 * **Enterprise API Deployment**: The core generative engine remains strictly closed-source. Commercial-grade access to the QMP API for enterprise scale multi-agent orchestration and zero-trust red-teaming will be available through highly restricted licensing. *(Waitlist Inquiries: [ REDACTED ])*
+
+## Genesis Hashes
+`[ProjectID_QMP01_Genesis_CN]:(Hash: 0xQMP_Alpha_202606_Origin)`
