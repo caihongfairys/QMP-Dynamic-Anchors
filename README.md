@@ -164,7 +164,7 @@ Subject:通过自动化认知锚点实现 0% 幻觉（绕过 RAG 与上下文扩
 摘要：**我设计了一套全新的动态锚点协议（QMP），有望将AI的幻觉降为0%。**
 
 ---
-## ⚖️ ## Sovereignty & Licensing (主权与授权体系)
+## ⚖️ Sovereignty & Licensing (主权与授权体系)
 
 QMP 采用严格的分层混合授权模型 (Layered Hybrid Licensing Model)。点阅或使用本仓库内容，即受以下物理边界约束：
 
