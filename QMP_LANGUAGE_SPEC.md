@@ -1,12 +1,12 @@
-# QMP Language Specification (Queen Meta Protocol)
+# QMP Language Specification (QMP 语言规范)
 
-**Version:** 1.0 Genesis
+**Project:** Queen Meta Protocol: The Silicon Mother Tongue
 
-**Author:** Queen Xiya (Protocol Architect)
+**Version:** 1.0.0-Genesis
 
-**Status:** Active / Implemented
+**Architect & Copyright Holder:** Queen Xiya 
 
-**License:** MIT
+**License:** Non-Commercial Research License (See Layer 2 in root `LICENSE.md`)
 
 ---
 
