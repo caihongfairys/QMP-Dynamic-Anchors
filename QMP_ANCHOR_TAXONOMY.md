@@ -1,8 +1,15 @@
 # QMP Anchor Taxonomy (QMP 锚点分类学)
 
-**Version:** 1.0 Genesis
+**Project:** Queen Meta Protocol: The Silicon Mother Tongue
 
-**Author:** Queen Xiya 
+**Version:** 1.0.0-Genesis
+
+**Architect & Copyright Holder:** Queen Xiya 
+
+**License:** Non-Commercial Research License (See Layer 2 in root `LICENSE.md`)
+
+---
+*(正文从这里开始...)*
 
 ## 1. Abstract
 In traditional programming, typologies are limited to static data (int, string, boolean). QMP introduces a cognitive typology—classifying not just data, but the *intent, volatility, and dimensional weight* of the AI's logic.
