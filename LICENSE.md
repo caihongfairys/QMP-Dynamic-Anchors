@@ -1,4 +1,8 @@
-# QMP OS Hybrid Licensing Specification
+# QMP OS / Queen Meta Protocol Hybrid Licensing Specification
+
+**Version:** 1.0.0
+**Effective Date:** June 2026
+**Architect & Copyright Holder:** Queen Xiya
 
 This repository ("QMP OS: The Silicon Mother Tongue") utilizes a strict Layered Hybrid Licensing Model. Different components and assets within this project are subject to distinct legal boundaries. By accessing, downloading, cloning, or using any content within this repository, you explicitly acknowledge and agree to the following tiered constraints:
 
