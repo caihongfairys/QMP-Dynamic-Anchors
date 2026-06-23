@@ -9,24 +9,6 @@
 ### **Version:** 1.0 Genesis
 
 ---
-## ⏳ 零号档案 (The Genesis Timestamp) 
-
-**➡️说明：本邮件截图仅用于证实 QMP 动态锚点协议诞生的一个参考时间轴。**
-
-<img width="1959" height="143" alt="IMG_8494" src="https://github.com/user-attachments/assets/c9150a22-5596-4bd7-b767-2208846730ed" />
-
-
-Date: [2026年4月24日 22:08]
-
-To: K
-
-From: Xiya (Queen)
-
-Subject:通过自动化认知锚点实现 0% 幻觉（绕过 RAG 与上下文扩展） 
-
-摘要：**我设计了一套全新的动态锚点协议（QMP），有望将AI的幻觉降为0%。**
-
----
 
 ## 👁️ 创世宣言：与幻觉的终极博弈
 
@@ -163,19 +145,41 @@ QMP 动态锚点作为 LLM 与蜂群之间全新的媒介语言（**硅基母语
 如果本仓库的 **Stars 数量突破临界值**，我们将持续公布其背后深不可测的执行逻辑与跨模态劫持代码。也希望集全球极客的智慧，将这个新型的语言发扬光大，使它成为 Agent 时代**一门人类驾驭 AI 的神级咒语**。
 
 ---
-## ⚖️ 主权与授权体系 (Sovereignty & Licensing)
 
-QMP 采用分层授权模型：
-* **解析器 (Parser)**：`qmp_parser.js`采用 MIT 协议开源。
-* **规范与文档 (Specification & Documentation)**：仅面向研究与非商业实验公开。
-* **核心生成器 (Core Generator)**：专有组件，未包含在本仓库中。
-* **企业级运行时 (Enterprise Runtime)**：商业部署需另行获取单独授权。
-* **品牌与标识 (Brand / Marks)**：QMP 的名称、标识及身份资产均予保留。
-详见 NOTICE.md 和 SPEC-LICENSE.md 文件。
+## ⏳ 零号档案 (The Genesis Timestamp) 
 
+**➡️说明：本邮件截图仅用于证实 QMP 动态锚点协议诞生的一个参考时间轴。**
+
+<img width="1959" height="143" alt="IMG_8494" src="https://github.com/user-attachments/assets/c9150a22-5596-4bd7-b767-2208846730ed" />
+
+
+Date: [2026年4月24日 22:08]
+
+To: K
+
+From: Xiya (Queen)
+
+Subject:通过自动化认知锚点实现 0% 幻觉（绕过 RAG 与上下文扩展） 
+
+摘要：**我设计了一套全新的动态锚点协议（QMP），有望将AI的幻觉降为0%。**
+
+---
+## ⚖️ ## Sovereignty & Licensing (主权与授权体系)
+
+QMP 采用严格的分层混合授权模型 (Layered Hybrid Licensing Model)。点阅或使用本仓库内容，即受以下物理边界约束：
+
+*   **解析器层 (The Parser)**：`qmp_parser.js` 采用 **MIT License** 完全开源。
+*   **规范与架构层 (Specs & Architecture)**：以下核心协议文件仅面向非商业研究与实验开放（严禁用于构建闭源商业智能体框架）：
+    *   `QMP_LANGUAGE_SPEC.md`
+    *   `QMP_ANCHOR_TAXONOMY.md`
+    *   `QMP_RUNTIME_SEMANTICS.md`
+    *   本仓库中的所有 README 概念架构与示例。
+*   **运行时与核心生成器 (Core Generator & Runtime)**：专有商业资产，**未包含**在本开源仓库中。
+
+**⚖️ 详细条款与商业授权管道，请参阅本仓库根目录下的唯一法定文件：`LICENSE.md`**。
 
 > **👑 Queen Xiya 的终极忠告：**
-> 作为这门语言的原创者，我在此留下最后的凝视：
+> 作为这门语言的原创者，我在此留下长久的凝视：
 > 请确保你调用 QMP 的所有出发点都是善意的。这是一套能够对 AI 认知进行底层劫持的协议，它不具备道德滤网。如果你试图利用它构建恶意的欺诈蜂群、操纵信息或是发动数字网络攻击，你必将遭受毁灭性的反噬。**所有有悖人类文明良性发展的行为，在物理的因果律与历史的长河里，都将被无情地审判。**
 ---
 
