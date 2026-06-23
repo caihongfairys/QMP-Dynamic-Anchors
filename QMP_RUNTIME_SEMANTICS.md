@@ -1,8 +1,14 @@
-# QMP Runtime Semantics (QMP 运行时语义)
+# QMP Runtime Semantics (QMP 运行期语义)
 
-**Version:** 1.0 Genesis
+**Project:** Queen Meta Protocol: The Silicon Mother Tongue
 
-**Author:** Queen Xiya 
+**Version:** 1.0.0-Genesis
+
+**Architect & Copyright Holder:** Queen Xiya 
+
+**License:** Non-Commercial Research License (See Layer 2 in root `LICENSE.md`)
+
+---
 
 ## 1. The QMP Execution Loop (QMP 执行闭环)
 The QMP interpreter forces a strict operational cadence on any compatible Multi-Agent Swarm. The runtime is divided into three absolute phases: `Monitor`, `Collapse`, and `Execute`.
