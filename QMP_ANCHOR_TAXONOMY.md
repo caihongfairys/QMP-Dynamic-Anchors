@@ -9,7 +9,6 @@
 **License:** Non-Commercial Research License (See Layer 2 in root `LICENSE.md`)
 
 ---
-*(正文从这里开始...)*
 
 ## 1. Abstract
 In traditional programming, typologies are limited to static data (int, string, boolean). QMP introduces a cognitive typology—classifying not just data, but the *intent, volatility, and dimensional weight* of the AI's logic.
