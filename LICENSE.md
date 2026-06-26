@@ -25,10 +25,12 @@ This repository ("QMP OS: The Silicon Mother Tongue") utilizes a strict Layered 
     *   `QMP_ANCHOR_TAXONOMY.md`
     *   `QMP_SWARM_TOPOLOGY.md`
     *   `QMP_RUNTIME_SEMANTICS.md`
-    *   `QMP_SELF_EVOLUTION.md`
-   *   **`QMP-01_Architecture_Genesis_v1.0_CN.pdf`** (The Epoch of Prompt)
-    *   **`QMP-01_White_Paper_v2.0_CN.pdf`** (The Silicon Genesis)
-    *   *All conceptual architecture, diagrams, philosophical texts, and dynamic anchor matrices displayed within this repository.*
+    *   `QMP_SELF_EVOLUTION.md`<br>
+    * **`QMP-01_Architecture_Genesis_v1.0_CN.pdf`** (The Epoch of Prompt)<br>
+    * **`QMP-01_White_Paper_v2.0_CN.pdf`**  (The Silicon Mother Tongue)<br>
+      （Note: "CN" here should be "EN".）<br>
+     *  **`QMP-01_White_Paper_v2.1_EN.pdf`** (The Silicon Mother Tongue)
+       *All conceptual architecture, diagrams, philosophical texts, and dynamic anchor matrices displayed within this repository.*
 *   **License:** Strict Non-Commercial Research License
 *   **Terms:** These specifications and documents are open STRICTLY for academic research, personal experimentation, and non-commercial peer review.
     1. **Anti-Parasitism:** It is ABSOLUTELY PROHIBITED to reverse-engineer, implement, or construct closed-source commercial Agent frameworks, execution backends, or any profit-driven software based on the concepts, dynamic anchor matrices, or Intermediate Representations (IR) outlined in these documents. 
