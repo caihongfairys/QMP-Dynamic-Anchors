@@ -1,6 +1,12 @@
 # 💠 QMP OS｜The Silicon Mother Tongue
-Version: 2.1.0 (The Silicon Genesis Update)<br>
+```
+Project: Queen Meta Protocol: The Silicon Mother Tongue
+Version: 2.1.0-Genesis (The Silicon Genesis Update)
 Architect & Copyright Holder: Queen Xiya
+License: Strictly Non-Commercial / Proprietary (See Sovereignty Clause & root `LICENSE.md`)
+Genesis Hashes：`[ProjectID_QMP01_Genesis_EN]:(Hash: 0xQMP_Alpha_202606_Origin)`
+```
+---
 > ## ~ Both a Language and a System / Language as OS ~
 
 [![Architect: Queen Xiya](https://img.shields.io/badge/Architect-Queen_Xiya-8A2BE2)](#) [![Version: v2.1.0](https://img.shields.io/badge/Version-v2.1.0-blue)](#) [![Status: Genesis Deployment](https://img.shields.io/badge/Status-Genesis_Deployment-success)](#) 
