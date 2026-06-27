@@ -216,5 +216,3 @@ By accessing, cloning, or interacting with any assets within this repository, yo
 
 **`[ProjectID_QMP01_Genesis_CN]:(Hash: 0xQMP_Alpha_202606_Origin)`**
 
----
-（2026.06）
