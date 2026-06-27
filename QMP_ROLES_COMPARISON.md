@@ -1,4 +1,5 @@
-# QMP｜The Multi-Role Comparison: Human Architect vs. Silicon Runtime
+# QMP｜Cross-Dimensional Validation Matrix & Role Comparison
+
 ```
 Project: Queen Meta Protocol: The Silicon Mother Tongue
 Version: 2.1.0-Genesis
