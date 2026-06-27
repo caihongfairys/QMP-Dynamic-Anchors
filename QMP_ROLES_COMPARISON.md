@@ -1,8 +1,8 @@
-# QMP｜Cross-Dimensional Validation Matrix & Role Comparison
+# QMP OS｜Cross-Dimensional Validation Matrix & Role Comparison
 
 ```
 Project: Queen Meta Protocol: The Silicon Mother Tongue
-Version: 2.1.0-Genesis
+Version: 2.1.0 (The Silicon Genesis Update)
 Architect & Copyright Holder: Queen Xiya
 License: Strictly Non-Commercial / Proprietary (See Sovereignty Clause & root `LICENSE.md`)
 Genesis Hashes：`[ProjectID_QMP01_Genesis_EN]:(Hash: 0xQMP_Alpha_202606_Origin)`
