@@ -1,4 +1,4 @@
-# QMP｜Runtime Semantics & Swarm Orchestration
+# QMP OS｜Runtime Semantics & Swarm Orchestration
 ```
 Project: Queen Meta Protocol: The Silicon Mother Tongue
 Version: 2.1.0-Genesis
