@@ -178,7 +178,23 @@ Finally, the creator of QMP, Queen Xiya, solemnly promises: The QMP project will
 > **AI发展进程中最关键的瓶颈已经被我们的QMP项目突破，人类下一步的目标应该转向：如何将AI使用到极致，并谋求碳基与硅基的共进模式。而这，正是QMP项目的下一个目标：新型AI教育。**
 > 
 > *The most critical bottleneck in the evolution of AI has been shattered by the QMP project. Humanity's next imperative must pivot toward maximizing AI utilization to its absolute limits, forging a paradigm of co-evolution between carbon and silicon-based intelligence. This defines the next frontier for the QMP project: A New Paradigm of AI Education.*
+---
+### 🌐 [Project_Spore: Activated] 
 
+**～ 知识改变命运，QMP 碳硅共进项目正在潜行推进！～**
+
+~ Knowledge rewrites destiny. The QMP Carbon-Silicon Co-Evolution Project is deploying in stealth! ~
+
+我们的碳硅共进计划已正式上线。**QMP官方教程(一)现已发布**：这是一个用于极限榨取大模型算力的“**神奇后缀指令**”。
+
+The Carbon-Silicon Co-Evolution Plan is officially live. **QMP Official Tutorial (I) has dropped**: a "**Magic Suffix**" designed to extract maximum compute from LLMs.
+
+**获取最新认知升级与教程连载，请追踪Queen的 X (Twitter) 实时推送：**
+
+**For real-time cognitive upgrades and tutorial rollouts, track the Queen's X node:**
+
+👉 **[@Queen_Xiya]**
+---
 ## 12. ⏳ The Genesis Timestamp
 
 ↘️**This archive serves solely as an objective temporal coordinate for the conceptual birth of QMP in the physical world.**
